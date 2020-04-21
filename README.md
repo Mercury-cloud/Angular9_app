@@ -16,9 +16,6 @@
   </p>
 </p>
 
-## Lighthouse Audit
-<img src="https://api.ganatan.org/articles/img/search-engine-optimization-avec-angular-lighthouse-after.png"/>
-
 ## Table of contents
 
 - [Status](#status)
@@ -27,13 +24,6 @@
 - [Back-end](#back-end)
 - [Author](#author)
 - [Documentation](#documentation)
-
-## Status
-
-[![GitHub stars](https://img.shields.io/github/stars/ganatan/angular9-app.svg?style=social&label=Star)](https://github.com/ganatan/angular9-app)
-[![GitHub forks](https://img.shields.io/github/forks/ganatan/angular9-app.svg?style=social&label=Fork)](https://github.com/ganatan/angular9-app/fork)
-
-
 
 ### Front-end : What's included
 > Dependencies
@@ -77,7 +67,7 @@
 
 ```bash
 # clone the repo
-git clone https://github.com/ganatan/angular9-app.git
+git clone https://github.com/Mercury-cloud/Angular9_app.git
 
 # change directory
 cd angular9-app
@@ -149,14 +139,5 @@ in your browser go to [http://localhost:4200](http://localhost:4200)
 * in your browser [http://localhost:5200/movies](http://localhost:5200/movies) 
 
 ### Author
-* Updated : 20/04/2020
-* Author  : danny
-
-## Documentation
-English Tutorials
-- Installation - https://www.ganatan.com/tutorials/build-full-web-application-with-angular
-- Tutorials Step by Step - https://www.ganatan.com/tutorials/en
-
-Tutoriels en français
-- Installation - https://www.ganatan.com/tutorials/creer-application-web-complete-avec-angular
-- Tutoriels Etapes par étapes - https://www.ganatan.com/tutorials
+* Updated : 21/04/2020
+* Author  : Mercury
